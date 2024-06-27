@@ -1,5 +1,8 @@
 ## Hi there 👋
-
+Hi i'm Levi.
+-I'm 13
+-I'm currently learning Unreal Engine 5 C++ as my first language with www.gamedev.tv
+-So I don't really have anything to show by now
 <!--
 **Levi67/Levi67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
